@@ -2,6 +2,10 @@
     color: #ff1c42;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size:x-large;
+    margin-left: 50px;
+
+    ;
 }
 .headingSecondary{
     color: #1cb4ff;
@@ -14,7 +18,7 @@ img{
     body{
         background-color:#a6fbf1;
         color: #000;
-        font-family: "Arial", "Helvetica", sans-serif;
+        font-family:Arial, Helvetica, sans-serif;
     }
 }
 footer{
